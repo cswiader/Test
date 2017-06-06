@@ -1,2 +1,4 @@
 test code
 this is for a diff
+
+this is for branch2
